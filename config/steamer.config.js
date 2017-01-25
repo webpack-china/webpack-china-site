@@ -1,6 +1,6 @@
 module.exports = {
-    "webserver": "//localhost:9000/",
-    "cdn": "//localhost:8000/",
+    "webserver": "//webpack-china.org/",
+    "cdn": "//webpack-china.org/",
     "port": "9000",
-    "route": "/news/",
+    "route": "",
 };
